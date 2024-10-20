@@ -25,5 +25,7 @@ public class ContaTerminal {
 
         System.out.println(mensagem);
 
+        scanner.close();
+
     }
 }
